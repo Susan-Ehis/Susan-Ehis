@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Susan-Ehis
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Front end Development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me susanehis10@gmail.com
+- 👀 I’m a Product Manager
+
 
 <!---
 Susan-Ehis/Susan-Ehis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
