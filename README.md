@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Susan-Ehis
+- 👋 Hi, I’m Susan-Ehis
 - 👀 I’m a Product Manager
 
 
