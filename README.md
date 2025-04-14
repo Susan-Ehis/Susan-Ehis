@@ -1,4 +1,3 @@
-
 I AM an experienced professional that is passionate about delivering exceptional products that solve real customer problems.
 With my years of experience building Edtech, logistics and SaaS products, I am passionate about building products that solve complex problems. 
 
